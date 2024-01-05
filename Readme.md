@@ -10,11 +10,11 @@ New Zealand and country comparisons chart 1990 to 2021
 
 New Zealand only chart of per capita emissions 1990 to 2021
 
-![New Zealand per capita greenhouse gas emissions 1990 - 2021](NZ Per capita greenhouse gas emissions.svg)
+![NZ-Per-capita-greenhouse-gas-emissions.svg](NZ-Per-capita-greenhouse-gas-emissions.svg)
 
 New Zealand and country comparisons chart 1990 to 2018
 
-![New Zealand Per Capita Greenhouse Gas Emissions 1990 - 2012](NZ-percapita-GHG-1990-2014v1.svg)
+![Per-capita-greenhouse-gas-emissions2018.svg](Per-capita-greenhouse-gas-emissions2018.svg)
 
 ### License
 
