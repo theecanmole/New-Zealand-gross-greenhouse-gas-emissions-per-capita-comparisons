@@ -4,9 +4,9 @@
 
 This repository features the code to obtain data and to create a chart of New Zealand gross greenhouse gas emissions per capita and selected country and regional comparisons 1990 to 2021.
 
-The data is from [Our World in Data](https://ourworldindata.org/grapher/per-capita-ghg-emissions?tab=chart&time=1990..2021&country=CHN~IND~OWID_WRL~NZL~GBR~OWID_EU27~OWID_AFR).
+The data is from [Our World in Data](https://ourworldindata.org/grapher/per-capita-ghg-emissions?tab=chart&time=1990..2021&country=CHN~IND~OWID_WRL~NZL~GBR~OWID_EU27~OWID_AFR). Except for the New Zealand data which is emissions data from the Ministry for the Environment and population data from Stats NZ via FigureNZ.
 
-New Zealand and country comparisons chart 1990 to 2021
+New Zealand gross greenhouse gas per capita and selected country comparisons chart 1990 to 2021
 
 ![New Zealand per capita greenhouse gas emissions comparisons 1990 - 2021](Per-capita-greenhouse-gas-emissions-2021.svg)
 
